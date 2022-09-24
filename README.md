@@ -10,6 +10,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![React](https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![Swift](https://img.shields.io/badge/-swift-F05138?&style=for-the-badge&logo=swift&logoColor=white) 
+![Kotlin](https://img.shields.io/badge/-kotlin-7F52FF?&style=for-the-badge&logo=kotlin&logoColor=white)
 
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![IntelliJ IDEA](https://img.shields.io/badge/-intellijidea-000000?&style=for-the-badge&logo=intellijidea&logoColor=white) 
@@ -22,3 +23,12 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) 
 
 -->
+
+### Connect
+
+<a href="https://www.linkedin.com/in/hakloev/">
+  <img src="https://img.shields.io/badge/-linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white" title="Linkedin" alt="Linkedin Account" />
+</a>
+<a href="https://twitter.com/hakloevdal">
+  <img src="https://img.shields.io/badge/-twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white" title="Twitter" alt="Twitter Account" />
+</a>
